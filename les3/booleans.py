@@ -1,7 +1,4 @@
-import pandas as pd
-
-print(pd)
-# # ==========================================
+g# # ==========================================
 # # Voorbeeld Opdracht
 # # Gebruik de not operator om het tegenovergestelde van de boolean waarde True te printen.
 # # ==========================================
