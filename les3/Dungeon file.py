@@ -102,3 +102,6 @@ if(Vrijheid_blijheid == True):
 
 if(Schoonmoeder == True):
     print("Oh nee, je schoonmoeder blijkt een enorme tang! Wat een pech, daar gaat je vrijheid EN je blijheid!")
+
+
+    Hallo dit is extra tekst
